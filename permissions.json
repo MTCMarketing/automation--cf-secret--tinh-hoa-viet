@@ -13,8 +13,8 @@
       },
       "user": {
         "read": 1,
-        "write": 0,
-        "update": 0,
+        "write": 1,
+        "update": 1,
         "delete": 0
       }
     }
