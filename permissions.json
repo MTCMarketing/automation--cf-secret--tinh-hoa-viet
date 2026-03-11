@@ -1,1 +1,22 @@
-{}
+{
+  "roles": [
+    "user",
+    "admin"
+  ],
+  "tables": {
+    "users": {
+      "admin": {
+        "read": 3,
+        "write": 3,
+        "update": 3,
+        "delete": 3
+      },
+      "user": {
+        "read": 1,
+        "write": 0,
+        "update": 0,
+        "delete": 0
+      }
+    }
+  }
+}
