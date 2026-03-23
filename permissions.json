@@ -53,6 +53,14 @@
         "update": 0,
         "delete": 0
       }
+    },
+    "test_table": {
+      "admin": {
+        "read": 3,
+        "write": 3,
+        "update": 3,
+        "delete": 3
+      }
     }
   }
 }
